@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "64327271c5f2fcfa9d06add4"
+  },
+  "userid": "1",
+  "name": "Sanjitha Suresh",
+  "email": "sanji@gmail.com",
+  "phno": "08056995688",
+  "dob": "28-07-2003"
+},{
+  "_id": {
+    "$oid": "643272cdc5f2fcfa9d06add5"
+  },
+  "userid": "2",
+  "name": "Abitha",
+  "email": "sl.abitha@gmail.com",
+  "phno": "9677811142",
+  "dob": "11-08-1999"
+}]
